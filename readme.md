@@ -47,7 +47,8 @@ I am following a structure roadmap of 90 C programs, starting from basic concept
 
 
 
-* Level 1: Progress🔄
+* Level 1: Complete✅
+* Level 2: Progress🔄
 
 
 
@@ -57,5 +58,5 @@ I am following a structure roadmap of 90 C programs, starting from basic concept
 
 Zeel Prajapati
 
-BSc IT Student|Aspiring Software Developer
+BSc IT Student | Aspiring Software Developer
 

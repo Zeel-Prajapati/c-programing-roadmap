@@ -14,4 +14,14 @@
 6. Largest of two numbers
 7. Largest of three numbers
 8. Positive / Negative / Zero
+9. Simple calculator (if-else)
+10. Menu-driven calculator (switch)
 
+
+
+## Level 2-Loops 🔁
+
+
+
+11. Print numbers 1–100
+12. Sum of 1–N numbers
