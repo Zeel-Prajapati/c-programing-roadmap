@@ -25,3 +25,4 @@
 
 11. Print numbers 1–100
 12. Sum of 1–N numbers
+13. Factorial
