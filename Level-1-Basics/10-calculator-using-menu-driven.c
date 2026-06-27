@@ -10,7 +10,7 @@ int main()
 
     do
     {
-        printf("====Welcome====\n");
+        printf("\n\n====Welcome====\n\n");
         printf("1. Addition\n");
         printf("2. Substraction\n");
         printf("3. Multiplacation\n");

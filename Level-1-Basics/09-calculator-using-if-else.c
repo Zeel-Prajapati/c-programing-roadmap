@@ -4,14 +4,15 @@
 int main()
 {
 
-    int vlu1, vlu2, ans, op;
+    int vlu1, vlu2, ans;
+    char op;
 
     printf("Enter first value: ");
     scanf("%d", &vlu1);
+    printf("Enter Operator: ");
+    scanf(" %c", &op);
     printf("Enter second value: ");
     scanf("%d", &vlu2);
-    printf("Enter Operator: ");
-    scanf("%d", &op);
 
     if (op == '+')
     {
